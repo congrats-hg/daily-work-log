@@ -166,3 +166,4 @@
 ### 11.2 일
 - [X] 벡터DB 관련 리서치
 - [X] graphrag 사용 시도 (이슈: index 명령어 실행 도중 중단(매우 오래 걸림) / deprecated 모델 사용(4-turbo-preview))
+- [X] 단일 DB 만들기
