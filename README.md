@@ -170,7 +170,7 @@
 
 ### 2025-11-03 월
 - [X] 서버 인식해서 조건문 (`if ENVIRONMENT == "development":`, `else`) 인식되게 하기. 기본값은 `ENVIRONMENT = os.getenv("ENVIRONMENT", "development")` 코드로 인해 development가 됨. 환경 변수에 별도로 명시되지 않을 경우 development로 정한다는 의미의 코드임. service 스크립트에 `Environment=ENVIRONMENT=production` 추가하면 production으로 인식되고, CORS_ORIGINS를 `"https://k-insight.kyeongin.com/"`로 해야 함.
-- [X] "https://stg-www.kyeongin.com/" (demo 말고 운영과 동일하게) 으로 접속 및 사용되게 하기
+- [X] "https://stg---.com/" (demo 말고 운영과 동일하게) 으로 접속 및 사용되게 하기
 - [X] 도메인 4개 설정 (즉시 반영)
 - [X] 로그 한달 단위로 백업 및 backend.log 초기화되게 구현 (log rotation) (1107 금요일 반영 예정) (pip install pandas openpyxl apscheduler 해야 함)
 - [X] 매일 17시-다음날17시 로그 기반 엑셀 파일 자동 생성 코드 추가 (1107 금요일 반영 예정)
