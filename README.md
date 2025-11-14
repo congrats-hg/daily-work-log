@@ -237,4 +237,9 @@
 - [X] DeepLearning.AI PyTorch for Deep Learning의 PyTorch: Fundamentals 20% 이상 수강
 
 ### 11.14 금
-- [X] 
+- [X] GPT 기반 백엔드 개발 시작
+- [X] GPU 설치된 후 vllm과 stg-backend 다시 띄우기(가상환경에 paddleocr paddlepaddle paddlex 설치했는데 vllm이랑 의존성 충돌 나서 지움), vllm 테스트용 gpu 하나 선점..vllm 띄워놓고 수시로 프롬프팅 등으로 테스트
+- [X] 2b 미만 모델 테스트: hcx 0.5b (private repo의 리드미에 기록함)
+- [X] 파이토치 스터디 1시간
+
+### 11.15 토
