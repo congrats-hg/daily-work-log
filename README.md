@@ -1,8 +1,8 @@
 # daily-work-log
 
 ### 11.30 일
-- [X] CV 완성, 업로드
-- [ ] 
+- [X] writing a draft of resume
+- [ ] ChromaDB auto update code
 
 ### 11.29 토
 - [X] 러닝스푼즈 1회차 학습 (3시간)
