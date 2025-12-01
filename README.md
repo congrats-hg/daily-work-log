@@ -3,8 +3,8 @@
 ### 12.01 월
 the most intuitive way to understand w and b:  
 <img height="100" alt="image" src="https://github.com/user-attachments/assets/9078ef77-cd09-48ce-be3b-b6fd428921ac" />
-- [X] got feedback of my resume
-- [X] studied D.L.AI for an hour
+- [X] (0732~0758) got feedback of my resume
+- [X] (0815~0915) studied D.L.AI for an hour
 
 
 ### 11.30 일
