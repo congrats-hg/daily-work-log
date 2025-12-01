@@ -1,10 +1,16 @@
 # daily-work-log
 
-### 12.01 월
+### 12.01 MON
 the most intuitive way to understand w and b:  
 <img height="100" alt="image" src="https://github.com/user-attachments/assets/9078ef77-cd09-48ce-be3b-b6fd428921ac" />
-- [X] (0732~0758) got feedback of my resume
+- [X] (0732~0758) received feedback on my resume
 - [X] (0815~0915) studied D.L.AI for an hour
+- [X] solved a leetcode problem during lunchtimele
+- [X] Tried using CODEX cli
+- [X] meeting with frontend team for schedule
+- [X] Performed troubleshooting on the stg backend to ensure summaries were rendered correctly (root cause: different parsing rules for summarization and briefing, which look alike / to avoid repeating this issue: always verify post-deployment behavior using the stg domain)
+- [X] (TA work) Confirmed the PPT submission deadline and posted an announcement on the LMS
+- [X] added temporary `author` and `service_daytime` metadata in the backend processing flow to support the design & frontend teams
 
 
 ### 11.30 일
