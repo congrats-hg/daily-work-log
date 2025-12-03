@@ -1,6 +1,6 @@
 # daily-work-log
 
-# 12.02 TUES
+### 12.02 TUES
 - [X] (TA work) Evaluated student presentations
 - [X] received feedback on my resume
 - [X] revised the resume
