@@ -23,7 +23,7 @@ the most intuitive way to understand w and b:
 - [X] sent a Rebellion NPU pricing inqury email
 - [X] moved new DB to SSC server to use it as the related-news API for the stg backend (via scp command)
 - [X] copied the entire prod server's backend to stg server(rtx4090), reviewed the differences, and created a checklist for seamlessly switching the stg backend to the prod asap (only the `app` & `_test` folder need to be replaced, **must add an related-news API configuration in the domain code, which switches based on the server environment**)
-- [X] replaced the vLLM-based backend with the GPT-based backend in stg server (**some issues remain - summaries are not appearing, fix it tomorrow**)
+- [X] replaced the vLLM-based backend with the GPT-based backend in stg server (--**some issues remain - summaries are not appearing, fix it tomorrow**--)
 
 ### 11.29 토
 - [X] 러닝스푼즈 1회차 학습 (3시간)
