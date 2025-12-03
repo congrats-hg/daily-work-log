@@ -9,10 +9,14 @@
 - [X] Started a background process for real-time ChromaDB updates using Watchdog (**(make sure to use the same ChromaDB version and embedding model that was used to build the database when performing inference)**)
 - [X] Tested the DB and found an issue where newly added data was not returned by queries but by `art_id` (newly added data not found by query) (investigated possible causes but couldn’t identify the root; contacted my senior for assistance tomorrow)
 
+<br>
+
 ### 12.02 TUES
 - [X] (TA work) Evaluated student presentations
 - [X] received feedback on my resume
 - [X] revised the resume
+
+<br>
 
 ### 12.01 MON
 the most intuitive way to understand w and b:  
@@ -26,6 +30,7 @@ the most intuitive way to understand w and b:
 - [X] (TA work) Confirmed the PPT submission deadline and posted an announcement on the LMS
 - [X] added temporary `author` and `service_daytime` metadata in the backend processing flow to support the design & frontend teams
 
+<br>
 
 ### 11.30 일
 - [X] finished the resume draft and submitted it for feedback
@@ -34,8 +39,12 @@ the most intuitive way to understand w and b:
 - [X] copied the entire prod server's backend to stg server(rtx4090), reviewed the differences, and created a checklist for seamlessly switching the stg backend to the prod asap (only the `app` & `_test` folder need to be replaced, **must add an related-news API configuration in the domain code, which switches based on the server environment**)
 - [X] replaced the vLLM-based backend with the GPT-based backend in stg server (--**some issues remain - summaries are not appearing, fix it tomorrow**--)
 
+<br>
+
 ### 11.29 토
 - [X] 러닝스푼즈 1회차 학습 (3시간)
+
+<br>
 
 ### 11.28 금
 - [X] 그래프 전달
@@ -48,6 +57,8 @@ the most intuitive way to understand w and b:
 - [X] 어색한 부분 발견, 추가 수정
 - [X] 마인드맵 아이디어 제공 겸 디자인 추가 수정 (바이브코딩)
 - [X] 새 벡터 DB에 대한 fastapi 코드 작성해서 결과 나오게 해보기 (기존 api 코드 참고)
+
+<br>
 
 ### 11.27 목
 - [X] 관련기사 api 관련해 상황 파악, 5090에 있는 관련 데이터 전부 삭제
