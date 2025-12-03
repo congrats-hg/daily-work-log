@@ -1,6 +1,7 @@
 # daily-work-log
 
-### 12.03 WED - 실시간 DB 업데이트 구현, 운영 서버 관련 개발 방향 확정
+### 12.03 WED
+**실시간 DB 업데이트 구현, 운영 서버 관련 개발 방향 확정**
 - [X] Created Watchdog-based code with the Codex extension
 - [X] Updated the work-report ppt
 - [X] Updated logics of the Watchdog-based code
