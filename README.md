@@ -1,5 +1,14 @@
 # daily-work-log
 
+### 12.03 WED
+- [X] Created Watchdog-based code with the Codex extension
+- [X] Updated the work-report ppt
+- [X] Updated logics of the Watchdog-based code
+- [X] Met with the client and updated the to-do list
+- [X] Tested the Watchdog-based code
+- [X] Started a background process for real-time ChromaDB updates using Watchdog (**(make sure to use the same ChromaDB version and embedding model that was used to build the database when performing inference)**)
+- [X] Tested the DB and found an issue where newly added data was not returned by queries but by `art_id` (newly added data not found by query) (investigated possible causes but couldn’t identify the root; contacted my senior for assistance tomorrow)
+
 ### 12.02 TUES
 - [X] (TA work) Evaluated student presentations
 - [X] received feedback on my resume
