@@ -1,5 +1,10 @@
 # daily-work-log
 
+# 12.02 TUES
+- [X] (TA work) Evaluated student presentations
+- [X] received feedback on my resume
+- [X] revised the resume
+
 ### 12.01 MON
 the most intuitive way to understand w and b:  
 <img height="100" alt="image" src="https://github.com/user-attachments/assets/9078ef77-cd09-48ce-be3b-b6fd428921ac" />
