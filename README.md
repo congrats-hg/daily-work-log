@@ -9,6 +9,7 @@
 - [X] Tested the Watchdog-based code
 - [X] Started a background process for real-time ChromaDB updates using Watchdog (**(make sure to use the same ChromaDB version and embedding model that was used to build the database when performing inference)**)
 - [X] Tested the DB and found an issue where newly added data was not returned by queries but by `art_id` (newly added data not found by query) (investigated possible causes but couldn’t identify the root; contacted my senior for assistance tomorrow)
+- [X] Replied to the email from Rebellion
 
 <br>
 
