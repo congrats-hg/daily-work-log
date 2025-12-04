@@ -1,5 +1,15 @@
 # daily-work-log
 
+### 12.04 THUR
+- [X] Assigned the related-articles API to use the version backed by a Watchdog-based auto-updated DB on the stg backend, while the production backend continues using the existing API
+- [X] Revised the stg backend to properly display the `author` and `service_daytime` metadata
+- [X] Created and shared HCX API implementation for testing
+- [X] Identified the cause of missing reporter names in the API (metadata was not assigned) and resolved it by adding the metadata and rerunning the process
+- [X] Investigated the cause of missing publication dates in the API (typo..) and resolved the issue
+- [X] Changed the API key becuase our lab's one exceeded its quota
+- [X] Enabled reporter names and publication dates to appear for 경기도뉴스포털 as well
+- [X] Refactored code to standardize duplicated metadate fields (dates, service_daytime --> service_daytime)
+
 ### 12.03 WED
 **실시간 DB 업데이트 구현, 운영 서버 관련 개발 방향 확정**
 - [X] Created Watchdog-based code with the Codex extension
