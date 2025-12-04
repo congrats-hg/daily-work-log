@@ -10,6 +10,8 @@
 - [X] Enabled reporter names and publication dates to appear for 경기도뉴스포털 as well
 - [X] Refactored code to standardize duplicated metadate fields (dates, service_daytime --> service_daytime)
 
+<br>
+
 ### 12.03 WED
 **실시간 DB 업데이트 구현, 운영 서버 관련 개발 방향 확정**
 - [X] Created Watchdog-based code with the Codex extension
