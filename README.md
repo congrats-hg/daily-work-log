@@ -1,5 +1,11 @@
 # daily-work-log
 
+### 12.29 MON
+- [X] 서울시스템 연구 보고서 작성용 K-인사이트 구성도 자료 작성 (약 20%) - 벡터DB 관련 설명 및 구성도 제작 완료
+    Made a discriptive document on K-Insight service  
+- [X] 
+- [X] 
+
 ### 12.04 THUR
 - [X] Assigned the related-articles API to use the version backed by a Watchdog-based auto-updated DB on the stg backend, while the production backend continues using the existing API
 - [X] Revised the stg backend to properly display the `author` and `service_daytime` metadata
